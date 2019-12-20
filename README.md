@@ -2,4 +2,4 @@
 My first spring boot project
 
 
-[![Actions Status](https://xxx.execute-api.us-west-2.amazonaws.com/production/badge/kwizeraelvis/spring-starter-project)](https://xxx.execute-api.us-west-2.amazonaws.com/production/results/kwizeraelvis/spring-starter-project)
+[![Actions Status](https://github.com/kwizeraelvis/spring-starter-project/workflows/Java%CI/badge.svg)](https://github.com/kwizeraelvis/spring-starter-project/actions)
