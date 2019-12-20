@@ -2,4 +2,4 @@
 My first spring boot project
 
 
-![](https://github.com/kwizeraelvis/spring-starter-project/workflows/Java%CI/badge.svg)
+![](https://github.com/kwizeraelvis/spring-starter-project/workflows/.github/workflows/maven.yml/badge.svg)
