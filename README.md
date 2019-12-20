@@ -2,4 +2,4 @@
 My first spring boot project
 
 
-![](https://github.com/kwizeraelvis/spring-starter-project/workflows/.github/workflows/maven.yml/badge.svg)
+[![Actions Status](https://xxx.execute-api.us-west-2.amazonaws.com/production/badge/kwizeraelvis/spring-starter-project)](https://xxx.execute-api.us-west-2.amazonaws.com/production/results/kwizeraelvis/spring-starter-project)
